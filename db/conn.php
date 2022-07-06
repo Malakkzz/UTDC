@@ -1,7 +1,7 @@
 <?php
 //connecting to a database
     $host="localhost";
-    $db="users_db";
+    $db="UTDC";
     $user="root";
     $pass="";
     $charset="utf8";
